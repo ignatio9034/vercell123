@@ -1,0 +1,4 @@
+baseURL = "https://interiordesign505.vercel.app"
+languageCode = "en-us"
+title = "Interior Design Idea"
+theme = "tale-hugo-master"
